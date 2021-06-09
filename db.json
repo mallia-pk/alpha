@@ -1,6 +1,6 @@
 {
-  "Members":[
-       {
+    "Members": [
+        {
             "id": 1,
             "gamename": "QBit JS",
             "realname": "Jishnu S",
@@ -13,8 +13,8 @@
             "iq": 89,
             "style": "Rhino",
             "tier": "Conqureror"
-       },
-       {
+        },
+        {
             "id": 2,
             "gamename": "QBit KF",
             "realname": "Koushik",
@@ -27,8 +27,8 @@
             "iq": 80,
             "style": "Wolf",
             "tier": "Ace"
-       },
-       {
+        },
+        {
             "id": 3,
             "gamename": "QBit Ns",
             "realname": "Naveen V M",
@@ -41,8 +41,8 @@
             "iq": 87,
             "style": "Crocodile",
             "tier": "Ace"
-       },
-       {
+        },
+        {
             "id": 4,
             "gamename": "QBit PK",
             "realname": "Pk Joackas Mallia",
@@ -55,6 +55,6 @@
             "iq": 80,
             "style": "Monkey",
             "tier": "Ace"
-       }
-  ]
+        }
+    ]
 }
