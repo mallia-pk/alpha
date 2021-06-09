@@ -1,4 +1,5 @@
-{
+"Members":[
+     {       
         id: 1,
         gamename: 'QBit JS',
         realname: 'Jishnu S',
@@ -55,3 +56,4 @@
         style: 'Monkey',
         tier: 'Ace'
     }
+      ]
