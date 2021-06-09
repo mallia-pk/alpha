@@ -1,4 +1,5 @@
-"Members":[
+{
+     "Members":[
      {       
         'id': 1,
         'gamename': 'QBit JS',
@@ -57,3 +58,4 @@
         'tier': 'Ace'
     }
       ]
+}
