@@ -1,60 +1,60 @@
-{
-    "Members": [
-        {
-            "id": 1,
-            "gamename": "QBit JS",
-            "realname": "Jishnu S",
-            "role": "Assaulter and Acting IGL",
-            "ar": 90,
-            "siper": 92,
-            "smg": 95,
-            "pistol": 80,
-            "dmr": 79,
-            "iq": 89,
-            "style": "Rhino",
-            "tier": "Conqureror"
-        },
-        {
-            "id": 2,
-            "gamename": "QBit KF",
-            "realname": "Koushik",
-            "role": "Assaulter",
-            "ar": 8,
-            "sniper": 70,
-            "smg": 80,
-            "pistol": 50,
-            "dmr": "NaN",
-            "iq": 80,
-            "style": "Wolf",
-            "tier": "Ace"
-        },
-        {
-            "id": 3,
-            "gamename": "QBit Ns",
-            "realname": "Naveen V M",
-            "role": "ALL Rounder",
-            "ar": 88,
-            "sniper": 90,
-            "smg": 95,
-            "pistol": 85,
-            "dmr": 83,
-            "iq": 87,
-            "style": "Crocodile",
-            "tier": "Ace"
-        },
-        {
-            "id": 4,
-            "gamename": "QBit PK",
-            "realname": "Pk Joackas Mallia",
-            "role": "DMR and Acting IGL",
-            "ar": 87,
-            "sniper": 83,
-            "smg": 79,
-            "pistol": 60,
-            "dmr": 86,
-            "iq": 80,
-            "style": "Monkey",
-            "tier": "Ace"
-        }
-    ]
-}
+[
+    
+    {
+        "id": 1,
+        "gamename": "QBit JS",
+        "realname": "Jishnu S",
+        "role": "Assaulter and Acting IGL",
+        "ar": 90,
+        "siper": 92,
+        "smg": 95,
+        "pistol": 80,
+        "dmr": 79,
+        "iq": 89,
+        "style": "Rhino",
+        "tier": "Conqureror"
+    },
+    {
+        "id": 2,
+        "gamename": "QBit KF",
+        "realname": "Koushik",
+        "role": "Assaulter",
+        "ar": 8,
+        "sniper": 70,
+        "smg": 80,
+        "pistol": 50,
+        "dmr": "NaN",
+        "iq": 80,
+        "style": "Wolf",
+        "tier": "Ace"
+    },
+    {
+        "id": 3,
+        "gamename": "QBit Ns",
+        "realname": "Naveen V M",
+        "role": "ALL Rounder",
+        "ar": 88,
+        "sniper": 90,
+        "smg": 95,
+        "pistol": 85,
+        "dmr": 83,
+        "iq": 87,
+        "style": "Crocodile",
+        "tier": "Ace"
+    },
+    {
+        "id": 4,
+        "gamename": "QBit PK",
+        "realname": "Pk Joackas Mallia",
+        "role": "DMR and Acting IGL",
+        "ar": 87,
+        "sniper": 83,
+        "smg": 79,
+        "pistol": 60,
+        "dmr": 86,
+        "iq": 80,
+        "style": "Monkey",
+        "tier": "Ace"
+    }
+    
+]
