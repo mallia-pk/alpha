@@ -1,5 +1,4 @@
-[
-    
+[    
     {
         "id": 1,
         "gamename": "QBit JS",
@@ -55,6 +54,5 @@
         "iq": 80,
         "style": "Monkey",
         "tier": "Ace"
-    }
-    
+    }   
 ]
